@@ -14,8 +14,8 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+title: Chuna
+subtitle: "Blog of Chunna"
 url: "https://sejalsharma.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
@@ -31,7 +31,7 @@ markdown: kramdown
 # Category descriptions (for archive pages)
 descriptions:
   - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+    desc: "Wtf is this!!!"
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
